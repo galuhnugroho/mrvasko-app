@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col lg:flex-row gap-6 lg:gap-12 px-4">
-        <img src="/public/images/hero.png" alt="Hero Image" className="max-w-sm w-full h-auto rounded-lg" />
+        <img src="/images/hero.png" alt="Hero Image" className="max-w-sm w-full h-auto rounded-lg" />
         <div className="text-center lg:text-left">
           <SplitText
             text="Hi, I'm Galuh Widy Nugroho"
